@@ -20,7 +20,7 @@ Press _ESC_ to leave the program
 ## Future ideas
 * YouTube support
 * effect for static images (zoom on or something like that=
-  * Tell me
+* Tell me
 
 ## Bugs
-  * Tell me
+* Tell me
