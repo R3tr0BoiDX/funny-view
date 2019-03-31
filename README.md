@@ -26,5 +26,5 @@ Press _ESC_ to leave the program
 * Tell me
 
 ## Credits
-[_AnimatedGif.cs_ by nobugz ](https://social.microsoft.com/Forums/en-US/fcb7d14d-d15b-4336-971c-94a80e34b85e/editing-animated-gifs-in-c?forum=netfxbcl)
-[_PreventSleep.cs_ by brianhassel](https://gist.github.com/brianhassel/e918c7b9f1a6265ff8f9)
+* [_AnimatedGif.cs_ by nobugz ](https://social.microsoft.com/Forums/en-US/fcb7d14d-d15b-4336-971c-94a80e34b85e/editing-animated-gifs-in-c?forum=netfxbcl)
+* [_PreventSleep.cs_ by brianhassel](https://gist.github.com/brianhassel/e918c7b9f1a6265ff8f9)
