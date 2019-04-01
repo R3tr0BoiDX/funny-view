@@ -2,7 +2,7 @@
 (intial GIFstream)
 ## A kinda GIF/video/picture slideshow program
 
-### * [You may want to use VCR OSD Mono for more ａｅｓｔｈｅｔｉｃ](https://www.dafont.com/vcr-osd-mono.font)
+### [You may want to use VCR OSD Mono for more ａｅｓｔｈｅｔｉｃ](https://www.dafont.com/vcr-osd-mono.font)  
 
 You can select a folder and funny-view will load all supported content, shuffle it and play it one by another.
 Works currently with:
